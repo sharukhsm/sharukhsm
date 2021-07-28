@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharukhsm
+- 👋 Hi, I’m @sharukh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React js 
 - 💞️ I’m looking to collaborate on web projects
