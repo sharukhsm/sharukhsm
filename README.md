@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me at sharukhsm@gmail.com
  <br />
-![](https://komarev.com/ghpvc/?username=sharukhsm)
+ ![](https://komarev.com/ghpvc/?username=sharukhsm&brightgreen)
 
 <!---
 sharukhsm/sharukhsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
