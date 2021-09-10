@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React js and Api's. 
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me at sharukhsm@gmail.com
+![](https://komarev.com/ghpvc/?username=sharukhsm)
 
 <!---
 sharukhsm/sharukhsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
