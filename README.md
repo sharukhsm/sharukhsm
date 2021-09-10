@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning React js and Api's. 
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me at sharukhsm@gmail.com
-- ![](https://komarev.com/ghpvc/?username=sharukhsm&brightgreen)
- <br />
+- ![](https://komarev.com/ghpvc/?username=sharukhsm&color=brightgreen)
  
 
 
