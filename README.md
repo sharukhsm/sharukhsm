@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Mern stack development and Api's. 
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me at sharukhsm@gmail.com
+
+
  </br>![](https://komarev.com/ghpvc/?username=sharukhsm&color=blue)
  
 
