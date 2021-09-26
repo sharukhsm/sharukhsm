@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me at sharukhsm@gmail.com
 
- </br>![](https://komarev.com/ghpvc/?username=sharukhsm&color=blue)
+![](https://komarev.com/ghpvc/?username=sharukhsm&color=blue)
  
 
 
