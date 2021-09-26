@@ -1,10 +1,11 @@
+![](https://komarev.com/ghpvc/?username=sharukhsm&color=blue)
 - 👋 Hi, I’m @sharukh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Mern stack development and Api's. 
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me at sharukhsm@gmail.com
 
-![](https://komarev.com/ghpvc/?username=sharukhsm&color=blue)
+
  
 
 
