@@ -2,7 +2,7 @@
 
 **`Software Engineer (Developer/Photographer/Creator)`**
 
-Experienced Software engineer with a background in building scalable systems in EdTech, Health, and Retail Industries. My journey in the tech world began with a keen interest in electronics, leading me to pursue a Bachelor's degree in Electronics and Communication Engineering. Over the years, my curiosity evolved towards software development, and at the age of 16, I started my coding journey with the goal of creating my own applications. Building on this foundation, I furthered my academic pursuits by pursuing a Master of Science in Information Technology at the University of Cincinnati. This educational journey has equipped me with a comprehensive understanding of Software Engineering principles and advanced skills that complement my hands-on experience as a full-stack developer.
+Experienced Software engineer with a background in building scalable systems in EdTech, Health care, and Retail Industries. My journey in the tech world began with a keen interest in electronics, leading me to pursue a Bachelor's degree in Electronics and Communication Engineering. Over the years, my curiosity evolved towards software development, and at the age of 16, I started my coding journey with the goal of creating my own applications. Building on this foundation, I furthered my academic pursuits by pursuing a Master of Science in Information Technology at the University of Cincinnati. This educational journey has equipped me with a comprehensive understanding of Software Engineering principles and advanced skills that complement my hands-on experience as a full-stack developer.
 
 ---
 
