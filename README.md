@@ -2,7 +2,6 @@
 
 **`Software Engineer (Developer/Photographer/Creator)`**
 
-Experienced Software engineer with a background in building scalable systems in EdTech, Health care, and Retail Industries. My journey in the tech world began with a keen interest in electronics, leading me to pursue a Bachelor's degree in Electronics and Communication Engineering. Over the years, my curiosity evolved towards software development, and at the age of 16, I started my coding journey with the goal of creating my own applications. Building on this foundation, I furthered my academic pursuits by pursuing a Master of Science in Information Technology at the University of Cincinnati. This educational journey has equipped me with a comprehensive understanding of Software Engineering principles and advanced skills that complement my hands-on experience as a full-stack developer.
 
 ---
 
@@ -22,6 +21,4 @@ Experienced Software engineer with a background in building scalable systems in 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-<details>
- <summary><h3>👨‍💻 Sharukh's Coding Journey</h3></summary>
-   Computers have always invoked curiosity in me to pursue answers to quench my thirst for knowledge. I was exposed to those huge computer systems at a considerably very young age. My father, an electronics engineer by profession, used to make me build projects, and I was always interested in the hardware aspect of computers which made me build my personal computers on my own and I would proudly say that I have never reached out to a computer technician when something breaks in my computer. Which eventually made me pursue electronics and communication engineering in my bachelors. However, I realised my interests are inclined towards the software aspect of computers. I started learning to code when I was 19 years because I wanted to make my own apps and video games. Over time, I have gained a wealth of experience designing and developing web applications.
+
